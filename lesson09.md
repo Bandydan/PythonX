@@ -52,7 +52,7 @@
 
 [Обучение по селекторам](https://learn.javascript.ru/css-selectors)
 
-[CSS свойства](https://puzzleweb.ru/css/all_properties.php)
+[CSS свойства](https://www.tutorialrepublic.com/css-reference/css3-properties.php )
 
 ## Bootstrap
 
